@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-25T19:16:48Z",
+ "updated": "2026-11-26T03:34:43Z",
  "repository": "JoppieToppie/gof2r-mods",
  "mods": [
   {
@@ -25,8 +25,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/courier_ships-v1.0/courier_ships-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 172,
-   "downloads": 35,
+   "views": 175,
+   "downloads": 36,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/courier_ships-source.zip",
    "follows": null
   },
@@ -52,8 +52,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/epilogue-v1.0/epilogue-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 188,
-   "downloads": 37,
+   "views": 191,
+   "downloads": 38,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/epilogue-source.zip",
    "follows": null
   },
@@ -80,8 +80,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/exploding_bra-v1.0/exploding_bra-thumb.jpg",
    "published": "2026-11-19",
    "updated": "2026-11-19",
-   "views": 204,
-   "downloads": 18,
+   "views": 211,
+   "downloads": 19,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/exploding_bra-source.zip"
   },
   {
@@ -107,8 +107,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/frontier_systems-v1.1/frontier_systems-thumb.jpg",
    "published": "2026-11-19",
    "updated": "2026-11-21",
-   "views": 368,
-   "downloads": 95,
+   "views": 382,
+   "downloads": 98,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/frontier_systems-source.zip",
    "follows": null
   },
@@ -134,8 +134,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/heavy_ammo-v1.0/heavy_ammo-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 134,
-   "downloads": 16,
+   "views": 137,
+   "downloads": 17,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/heavy_ammo-source.zip",
    "follows": null
   },
@@ -161,8 +161,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/heavy_flight-v1.0/heavy_flight-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 137,
-   "downloads": 15,
+   "views": 140,
+   "downloads": 16,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/heavy_flight-source.zip",
    "follows": null
   },
@@ -188,8 +188,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/hired_guns-v1.0/hired_guns-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 116,
-   "downloads": 22,
+   "views": 117,
+   "downloads": 23,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/hired_guns-source.zip",
    "follows": null
   },
@@ -217,8 +217,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/kepler_guild-v1.0/kepler_guild-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 201,
-   "downloads": 41,
+   "views": 207,
+   "downloads": 42,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/kepler_guild-source.zip",
    "follows": null
   },
@@ -244,8 +244,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/khador_interference-v1.0/khador_interference-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 122,
-   "downloads": 20,
+   "views": 124,
+   "downloads": 21,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/khador_interference-source.zip",
    "follows": null
   },
@@ -271,8 +271,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/lost_shipment-v1.0/lost_shipment-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 135,
-   "downloads": 30,
+   "views": 137,
+   "downloads": 31,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/lost_shipment-source.zip",
    "follows": null
   },
@@ -296,8 +296,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/mass_effect_ships-v1.1/mass_effect_ships-thumb.jpg",
    "published": "2026-11-19",
    "updated": "2026-11-19",
-   "views": 261,
-   "downloads": 74,
+   "views": 267,
+   "downloads": 75,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/mass_effect_ships-source.zip",
    "follows": null
   },
@@ -323,8 +323,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/mixed_wings-v1.0/mixed_wings-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 122,
-   "downloads": 26,
+   "views": 123,
+   "downloads": 27,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/mixed_wings-source.zip",
    "follows": null
   },
@@ -351,8 +351,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/pirate_bounty-v1.0/pirate_bounty-thumb.jpg",
    "published": "2026-11-19",
    "updated": "2026-11-19",
-   "views": 141,
-   "downloads": 30,
+   "views": 142,
+   "downloads": 31,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/pirate_bounty-source.zip"
   },
   {
@@ -378,8 +378,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/plasma_arsenal-v1.1/plasma_arsenal-thumb.jpg",
    "published": "2026-11-19",
    "updated": "2026-11-21",
-   "views": 256,
-   "downloads": 57,
+   "views": 263,
+   "downloads": 58,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/plasma_arsenal-source.zip",
    "follows": null
   },
@@ -405,8 +405,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/scavenger-v1.0/scavenger-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 111,
-   "downloads": 18,
+   "views": 112,
+   "downloads": 19,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/scavenger-source.zip",
    "follows": null
   },
@@ -432,8 +432,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sound_pack-v1.0/sound_pack-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 114,
-   "downloads": 29,
+   "views": 115,
+   "downloads": 30,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/sound_pack-source.zip",
    "follows": null
   },
@@ -459,8 +459,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/tinkerers_bench-v1.0/tinkerers_bench-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 112,
-   "downloads": 18,
+   "views": 114,
+   "downloads": 20,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/tinkerers_bench-source.zip",
    "follows": null
   },
@@ -486,8 +486,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/turret_status-v1.0/turret_status-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 144,
-   "downloads": 34,
+   "views": 145,
+   "downloads": 35,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/turret_status-source.zip",
    "follows": null
   },
@@ -513,8 +513,8 @@
    "thumb": "https://github.com/JoppieToppie/gof2r-mods/releases/download/warlord_fleet-v1.0/warlord_fleet-thumb.jpg",
    "published": "2026-11-21",
    "updated": "2026-11-21",
-   "views": 179,
-   "downloads": 42,
+   "views": 184,
+   "downloads": 44,
    "source": "https://github.com/JoppieToppie/gof2r-mods/releases/download/sources/warlord_fleet-source.zip",
    "follows": null
   }
